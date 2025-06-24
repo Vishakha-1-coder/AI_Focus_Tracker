@@ -41,9 +41,11 @@ git clone https://github.com/Vishakha-1-coder/AI_Focus_Tracker.git
 cd AI_Focus_Tracker
 
 2. **Install dependencies**
+```bash
 pip install -r requirements.txt
 
 3. **Start the app**
+```bash
 streamlit run app.py
 
 🧠 Use Cases
