@@ -46,3 +46,16 @@ pip install -r requirements.txt
 3. **Start the app**
 streamlit run app.py
 
+🧠 Use Cases
+Students who want to improve focus while studying
+
+Remote workers trying to reduce screen fatigue
+
+Productivity hackers applying Pomodoro techniques
+
+🙌 Credits
+Model trained on: State Farm Distracted Driver Dataset
+
+Built with ❤️ by Vishakha Karande
+
+
